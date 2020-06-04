@@ -8,7 +8,6 @@ namespace BasicMathTest
     [TestFixture]
     public class UnitTest1
     {
- 
         [Test]
         public void Test_AddMethod()
         {
