@@ -1,15 +1,14 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BasicMath;
+using NUnit.Framework;
 
 namespace BasicMathTest
 {
  
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
- 
-        [TestMethod]
+        [Test]
         public void Test_AddMethod()
         {
             BasicMaths bm = new BasicMaths();
@@ -17,7 +16,7 @@ namespace BasicMathTest
             Assert.AreEqual(res, 20);
         }
 
-        [TestMethod]
+        [Test]
         public void Test_SubstractMethod()
         {
             BasicMaths bm = new BasicMaths();
@@ -25,7 +24,7 @@ namespace BasicMathTest
             Assert.AreEqual(res, 0);
         }
 
-        [TestMethod]
+        [Test]
         public void Test_DivideMethod()
         {
             BasicMaths bm = new BasicMaths();
@@ -33,7 +32,7 @@ namespace BasicMathTest
             Assert.AreEqual(res, 2);
         }
 
-        [TestMethod]
+        [Test]
         public void Test_MultiplyMethod()
         {
             BasicMaths bm = new BasicMaths();

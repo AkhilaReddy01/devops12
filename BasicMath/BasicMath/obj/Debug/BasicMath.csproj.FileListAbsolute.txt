@@ -3,3 +3,9 @@ c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\
 c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.exe
 c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
 C:\Users\RaviRanjanKr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.csprojResolveAssemblyReference.cache
+C:\Users\akhil\Source\Repos1\AkhilaReddy01\devops12\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+C:\Users\akhil\Source\Repos1\AkhilaReddy01\devops12\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\akhil\Source\Repos1\AkhilaReddy01\devops12\BasicMath\BasicMath\obj\Debug\BasicMath.csprojAssemblyReference.cache
+C:\Users\akhil\Source\Repos1\AkhilaReddy01\devops12\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\akhil\Source\Repos1\AkhilaReddy01\devops12\BasicMath\BasicMath\obj\Debug\BasicMath.exe
+C:\Users\akhil\Source\Repos1\AkhilaReddy01\devops12\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
